@@ -1,6 +1,6 @@
-# PERSONAL CODE: 53928
+## PERSONAL CODE: 53928
 
-# [PERSONAL GITHUB ADDRESS](https://github.com/mimizae)
+## [PERSONAL GITHUB ADDRESS](https://github.com/mimizae)
 
 ---
 
