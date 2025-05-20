@@ -1,0 +1,14 @@
+[지민재] Tue May 20 09:33:42 2025 +0900 Merge branch 'main' of https://github.com/mimizae/software-engineering-assignment 08d7b02
+[지민재] Tue May 20 09:33:13 2025 +0900 chore: 임시 파일 삭제 bad22c0
+[mimizae] Tue May 20 09:32:31 2025 +0900 feat: 수정된 다이어그램.mdj 3c9322c
+[mimizae] Tue May 20 09:31:54 2025 +0900 feat: 수정된 다이어그램 fdf2d57
+[지민재] Tue May 20 09:31:05 2025 +0900 chore: 임시 파일 생성 0f2d221
+[지민재] Mon May 19 18:24:35 2025 +0900 chore: 오타 수정 7959ae7
+[지민재] Mon May 19 18:21:20 2025 +0900 doc: use case description 수정 ff0cc34
+[지민재] Mon May 19 17:17:25 2025 +0900 chore: 오탈자 수정 ac376f0
+[지민재] Mon May 19 17:16:31 2025 +0900 chore: 괄호 추가 3a4eb53
+[지민재] Mon May 19 17:15:32 2025 +0900 chore: 팀 코드, 깃허브 주소 글자 크기 조정 266d363
+[지민재] Mon May 19 17:14:22 2025 +0900 chore: 개인 코드 수정 b3ef106
+[지민재] Mon May 19 17:12:17 2025 +0900 doc: requirement list 수정 5d90c4d
+[지민재] Mon May 19 16:00:43 2025 +0900 feat: 문서 및 다이어그램 폴더화 14e7457
+[mimizae] Mon May 19 15:51:13 2025 +0900 Initial commit 9f7664d
